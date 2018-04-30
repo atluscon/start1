@@ -1,0 +1,4 @@
+git config --global user.name"atluscon"
+git config --global user.email"atluscon@gmail.com"
+
+git config --global credential.helper store
