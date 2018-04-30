@@ -1,1 +1,2 @@
-# start1
+This is my beginning to learn programming!
+Study hard!
